@@ -1,7 +1,7 @@
 # SC1015-Group-10-Project
 Analysis of Health-Adjusted Life Expectancy (HALE)
 
-by Leong Kit Ye,
+by Leong Kit Ye, Khant Zayar, Bruce Li Luyun
 
 ###  Files  ###
 1. **Data Preparation and Cleaning.ipynb**
