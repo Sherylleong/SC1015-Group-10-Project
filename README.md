@@ -48,10 +48,10 @@ For walkthrough, view the source code in order from:
 
 ##  Datasets used  
 
-# Global Health Data Exchange (GHDx) datasets (https://ghdx.healthdata.org/):
+### Global Health Data Exchange (GHDx) datasets (https://ghdx.healthdata.org/):
 1. **hale.csv** : Health-Adjusted Lide Expectancy (HALE) of all countries and territories from years 2000-2019.
     
-# World Bank datasets (https://data.worldbank.org/):    
+### World Bank datasets (https://data.worldbank.org/):    
 1. **% basic sanitation services.csv** : Percentage of population with access to basic sanitation services of all countries from years 2000-2019.
 2. **age dependency ratio.csv** : Age-dependency ratio (ratio of number of dependents e.g. children and elderly to number of workers) as percentage of working-age population of all countries from years 2000-2019.
 3. **c02 emissions mtpc.csv** : CO2 emissions (metric tons per capita) of all countries from years 2000-2019.
