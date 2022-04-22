@@ -21,7 +21,7 @@ For walkthrough, view the source code in order from:
 ## Contributors
 - Leong Kit Ye @Sherylleong
 - Khant Zayar @KZY201101
-- Bruce Li Luyun @
+- Bruce Li Luyun @BruceLee7
 
 
 ## Problem Definition 
@@ -29,13 +29,29 @@ For walkthrough, view the source code in order from:
 - Which set of data are the most useful in predicting the HALE and Life Expectancy? 
 - Which model would provide the most accurate results?
 
+## Models Used 
+1. Multivariate Linear Regression 
+2. Regression Trees
+3. Random Forest Regression 
+
+## What we learned from this project
+- Handling multiple datasets with different formats and standardizing them 
+- Merging multiple dataframes into a single dataframe with a convenient format for analysis
+- Linear Regression from sklearn.linear_model 
+- Regression Trees from sklearn.tree
+- Random Forest Regression from sklearn.ensemble 
+- Collaborating using Google Colab notebooks and Github
+- Concept about feature importances 
+
+## Conclusion 
 
 
-###  Datasets used  ###
-Global Health Data Exchange (GHDx) datasets (https://ghdx.healthdata.org/):
+##  Datasets used  
+
+# Global Health Data Exchange (GHDx) datasets (https://ghdx.healthdata.org/):
 1. **hale.csv** : Health-Adjusted Lide Expectancy (HALE) of all countries and territories from years 2000-2019.
     
-World Bank datasets (https://data.worldbank.org/):    
+# World Bank datasets (https://data.worldbank.org/):    
 1. **% basic sanitation services.csv** : Percentage of population with access to basic sanitation services of all countries from years 2000-2019.
 2. **age dependency ratio.csv** : Age-dependency ratio (ratio of number of dependents e.g. children and elderly to number of workers) as percentage of working-age population of all countries from years 2000-2019.
 3. **c02 emissions mtpc.csv** : CO2 emissions (metric tons per capita) of all countries from years 2000-2019.
