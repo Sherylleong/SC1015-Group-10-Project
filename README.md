@@ -3,24 +3,24 @@ Analysis of Health-Adjusted Life Expectancy (HALE)
 
 by Leong Kit Ye,
 
-###  FILES  ###
-1. Data Preparation and Cleaning.ipynb
+###  Files  ###
+1. **Data Preparation and Cleaning.ipynb**
     - initial data exploration to prepare for cleaning
     - extraction, preparation and cleaning of data
 
-2. Data Visualisation and Analysis
+2. **Data Visualisation and Analysis**
     - visualisation of differences in trends and distribution between life expectancy and HALE
     - exploratory analysis and visualisation of all features over time
     - visualisation and analysis of relationships between all metrics against HALE
 
-3. Machine Learning.ipynb
+3. **Machine Learning.ipynb**
     - training and evaluation of linear regression, regression tree and random forest models to predict HALE
     - analysis of coefficients and importances of various features in different models
 
-4. slides.pdf
+4. **slides.pdf**
     - our slides for the video presentation
 
-###  DATASETS USED  ###
+###  Datasets used  ###
 Global Health Data Exchange (GHDx) datasets (https://ghdx.healthdata.org/):
 1. **hale.csv** : Health-Adjusted Lide Expectancy (HALE) of all countries and territories from years 2000-2019. 
 
