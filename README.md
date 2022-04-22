@@ -13,7 +13,7 @@ For walkthrough, view the source code in order from:
     - visualisation of differences in trends and distribution between life expectancy and HALE
     - exploratory analysis and visualisation of all features over time
     - visualisation and analysis of relationships between all metrics against HALE
-    - 
+     
 3. [Machine Learning](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Machine%20Learning.ipynb)
     - training and evaluation of linear regression, regression tree and random forest models to predict HALE
     - analysis of coefficients and importances of various features in different models
