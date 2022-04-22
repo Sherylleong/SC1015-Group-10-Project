@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intellig
 For walkthrough, view the source code in order from: 
 
 1. [Data Preparation and Cleaning](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Data%20Preparation%20and%20Cleaning.ipynb)
-    - iniital data exploration to prepare for cleaning
+    - initial data exploration to prepare for cleaning
     - extraction, preparation and cleaning of data
 
 2. [Data Visualisation and Analysis](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Data%20Visualization%20and%20Analysis.ipynb)
