@@ -2,7 +2,7 @@
 
 ## About 
 
-This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intelligence) which uses the datasets from World Bank and Global Health Data Exchange to analyse how Health-Adjusted Life Expectancy (HALE) and Life Expectancy can be affected by different predictors and to find a set of predictors that can be used to maximize HALE. 
+This is a Mini-Project for SC1015 (Intro To Data Science and Artificial Intelligence) which uses the datasets from World Bank and Global Health Data Exchange to analyse how Health-Adjusted Life Expectancy (HALE) and Life Expectancy (LE) can be affected by different predictors and to find a set of predictors that can be used to maximize HALE. 
 For walkthrough, view the source code in order from: 
 
 1. [Data Preparation and Cleaning](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Data%20Preparation%20and%20Cleaning.ipynb)
@@ -10,12 +10,12 @@ For walkthrough, view the source code in order from:
     - extraction, preparation and cleaning of data
 
 2. [Data Visualisation and Analysis](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Data%20Visualization%20and%20Analysis.ipynb)
-    - visualisation of differences in trends and distribution between life expectancy and HALE
+    - visualisation of differences in trends and distribution between LE and HALE
     - exploratory analysis and visualisation of all features over time
     - visualisation and analysis of relationships between all metrics against HALE
      
 3. [Machine Learning](https://github.com/Sherylleong/SC1015-Group-10-Project/blob/main/Machine%20Learning.ipynb)
-    - training and evaluation of linear regression, regression tree and random forest models to predict HALE
+    - training and evaluation of linear regression, regression tree and random forest models to predict HALE and LE
     - analysis of coefficients and importances of various features in different models
     
 ## Contributors
@@ -25,7 +25,7 @@ For walkthrough, view the source code in order from:
 
 
 ## Problem Definition 
-- Can we predict the Life Expectancy and Health-Adjusted Life Expectancy(HALE) of a country based on other data such as its population, GDP etc?
+- Can we predict the Life Expectancy(LE) and Health-Adjusted Life Expectancy(HALE) of a country based on other data such as its population, GDP etc?
 - Which set of data are the most useful in predicting the HALE and Life Expectancy? 
 - Which model would provide the most accurate results?
 
@@ -44,7 +44,14 @@ For walkthrough, view the source code in order from:
 - Concept about feature importances 
 
 ## Conclusion 
+Unsurprisingly, out of all the models, random forest tree regression is the most effective both in terms of R^2 score and RMSE in predicting HALE and LE. 
+Analysing the models and results, it seems that HALE has a slightly more linear relationship with the predictors while life expectancy has a slighty more non-linear relationship with them, however, a sufficiently robust model such as random forest tree regression is still able to capture these relationships. 
 
+From our visualizations, there is a clear correlation between response variables HALE/LE and some predictors such as the percentage of people using at least basic sanitation services, and GDP. This makes sense because having a high GDP and a large percentage of people being able to use basic sanitation services indicates that the country is at least developed to some degree and hence can provide better living standards. Having better living standards could mean that average HALE and LE could be higher.These observations proved to be consistent with the feature importances as shown by models as both access to basic sanitation services and GDP per capita are the most important metrics across all the models Thus, governments seeking to increase HALE can prioritise increasing these two metrics. 
+
+It can also be seen that current health expenditure brings significant benefits to HALE and domestic private health expenditure has negligible impact on HALE, implying that government expenditure in the healthcare sector is what causes HALE to rise. Furthermore, while both age dependency ratio and population density have a negative impact on both HALE and life expectancy, age dependency ratio affects life expectancy more while population density affects HALE more. 
+
+Given limited resources, our model can inform which areas countries can shift their limited resources in order to increase HALE and LE to ensure everyone lives long, healthy lives.
 
 ##  Datasets used  
 
