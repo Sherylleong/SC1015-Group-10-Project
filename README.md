@@ -25,7 +25,7 @@ For walkthrough, view the source code in order from:
 
 
 ## Problem Definition 
-- Can we predict the Life Expectancy(LE) and Health-Adjusted Life Expectancy(HALE) of a country based on other data such as its population, GDP etc?
+- Can we predict the Life Expectancy (LE) and Health-Adjusted Life Expectancy (HALE) of a country based on other data such as its population, GDP etc?
 - Which set of data are the most useful in predicting the HALE and Life Expectancy? 
 - Which model would provide the most accurate results?
 
