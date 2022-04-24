@@ -18,6 +18,13 @@ For walkthrough, view the source code in order from:
     - training and evaluation of linear regression, regression tree and random forest models to predict HALE and LE
     - analysis of coefficients and importances of various features in different models
     
+## 🧠 Contributors
+| Name              |                     Area of Focus                     |GitHub Acount|
+|---|:---:|---|
+| Leong Kit Ye |        Data Preparation, Presentation Slides, Data Visualisation, Machine Learning        |@Sherylleong|
+| Khant Zayar  |     Data Preparation, Data Visualisation, Machine Learning     |@KZY201101|
+| Bruce Li Luyun |       Data Preparation, EDA, Presentation Slides, Presentation        |@BruceLee7|
+
 ## Contributors
 - Leong Kit Ye @Sherylleong 
 - Khant Zayar @KZY201101 
