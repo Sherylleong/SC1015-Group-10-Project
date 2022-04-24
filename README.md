@@ -23,7 +23,7 @@ For walkthrough, view the source code in order from:
 |---|:---:|---|
 | Leong Kit Ye |        Data Preparation, Data Cleaning, Data Visualisation, Machine Learning, Presentation, Github Repository        |@Sherylleong|
 | Khant Zayar  |     Data Preparation, Data Visualisation, Machine Learning, Github Repository     |@KZY201101|
-| Bruce Li Luyun |       Data Preparation, Data Cleaning, Presentation        |@BruceLee7|
+| Bruce Li Luyun |       Data Preparation, Data Cleaning, Data Visualisation, Presentation        |@BruceLee7|
 
 ## Problem Definition 
 - Can we predict the Life Expectancy (LE) and Health-Adjusted Life Expectancy (HALE) of a country based on other data such as its population, GDP etc?
