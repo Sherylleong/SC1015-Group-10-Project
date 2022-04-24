@@ -19,8 +19,8 @@ For walkthrough, view the source code in order from:
     - analysis of coefficients and importances of various features in different models
     
 ## Contributors
-- Leong Kit Ye @Sherylleong
-- Khant Zayar @KZY201101
+- Leong Kit Ye @Sherylleong 
+- Khant Zayar @KZY201101 
 - Bruce Li Luyun @BruceLee7
 
 
@@ -68,3 +68,18 @@ Given limited resources, our model can inform which areas countries can shift th
 8. **life expectancy.csv** : Average life expectancy of all countries from years 2000-2019.
 9. **population density.csv** : Population desity of all countries from years 2000-2019.
 10. **population.csv** : Population of all countries from years 2000-2019.
+
+
+## References
+- <https://neptune.ai/blog/random-forest-regression-when-does-it-fail-and-why>
+- <https://towardsdatascience.com/random-forest-regression-5f605132d19d>
+- <https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html>
+- <https://en.wikipedia.org/wiki/Random_forest>
+- <https://www.analyticsvidhya.com/blog/2020/05/decision-tree-vs-random-forest-algorithm/>
+- <https://www.keboola.com/blog/random-forest-regression>
+- <https://levelup.gitconnected.com/random-forest-regression-209c0f354c84>
+- <https://builtin.com/data-science/regression-tree>
+- <https://medium.com/analytics-vidhya/regression-trees-decision-tree-for-regression-machine-learning-e4d7525d8047>
+- <https://towardsdatascience.com/comparative-study-on-classic-machine-learning-algorithms-24f9ff6ab222#:~:text=When%20there%20are%20large%20number,are%20better%20than%20linear%20regression>
+- <https://ourworldindata.org/life-expectancy#:~:text=The%20United%20Nations%20estimate%20a,life%20expectancy%20of%2072.3%20years>
+- <https://www.who.int/data/gho/indicator-metadata-registry/imr-details/66>
