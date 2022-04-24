@@ -21,8 +21,8 @@ For walkthrough, view the source code in order from:
 ## Contributors
 | Name              |                     Area of Focus                     |GitHub Acount|
 |---|:---:|---|
-| Leong Kit Ye |        Data Preparation, Data Cleaning, Data Visualisation, Machine Learning, Presentation        |@Sherylleong|
-| Khant Zayar  |     Data Preparation, Data Visualisation, Machine Learning     |@KZY201101|
+| Leong Kit Ye |        Data Preparation, Data Cleaning, Data Visualisation, Machine Learning, Presentation, Github Repository        |@Sherylleong|
+| Khant Zayar  |     Data Preparation, Data Visualisation, Machine Learning, Github Repository     |@KZY201101|
 | Bruce Li Luyun |       Data Preparation, Data Cleaning, Presentation        |@BruceLee7|
 
 ## Problem Definition 
